@@ -1,6 +1,6 @@
 // -> Node js is a runtime environment for javascript which will run on the server side.
 // -> it will run on Asynchronous non-blocking I/O model.
-// -> Single thread can mannage multipple threads.
+// -> Single thread can mannage multipple connections.
 
 // npm :
 // -> Stands for node package manager.
